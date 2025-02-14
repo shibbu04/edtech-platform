@@ -70,7 +70,7 @@ edtech-platform/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/edtech-platform.git
+git clone https://github.com/shibbu04/edtech-platform.git
 cd edtech-platform
 ```
 
