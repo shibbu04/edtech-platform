@@ -6,7 +6,7 @@
 
 EduTech is a comprehensive scholarship management platform that connects students with educational opportunities. The platform facilitates the entire scholarship lifecycle, from discovery to application management, making it easier for students to find and apply for scholarships while helping administrators efficiently manage the process.
 
-Live Demo : [Shivam Singh](https://edtech-platform.vercel.app)
+Live Demo : [Click Here](https://edtech-platform.vercel.app)
 
 ### ✨ Key Features
 
